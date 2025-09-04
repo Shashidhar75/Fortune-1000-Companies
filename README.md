@@ -13,3 +13,6 @@ Financial Metrics: Revenues, profits, market capitalization, assets, revenue gro
 Ranking Data: Data about company ranks within the Fortune 1000 list, including changes in rank from prior periods, newbie status, and worldwide rankings.
 Employment Statistics: Employee count and job growth.
 CEO Information: Name of the CEO, if the CEO is the founder, and indication of the CEO's gender
+
+Screenshot:
+![Dashboard Preview](https://github.com/Shashidhar75/Fortune-1000-Companies/blob/main/fortune-1000%20companies%20screenshoot.png).
